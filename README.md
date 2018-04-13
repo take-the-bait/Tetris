@@ -11,13 +11,13 @@
 │   ├── box.js                               // 方块类
 │   └── map.js                               // 地图类
 ├── ui
-│   ├── menu.js                             // 菜单类
-│   ├── button.js                           // 按钮类
-│   ├── background.js                  // 背景类
-│   ├── gameinfo.js                      // 用于展示分数和结算界面
-│   └── music.js                            // 全局音效
-├── databus.js                              // 管控游戏状态
-└── main.js                                   // 游戏入口主函数# Tetris
+│   ├── menu.js                              // 菜单类
+│   ├── button.js                            // 按钮类
+│   ├── background.js                        // 背景类
+│   ├── gameinfo.js                          // 用于展示分数和结算界面
+│   └── music.js                             // 全局音效
+├── databus.js                               // 管控游戏状态
+└── main.js                                  // 游戏入口主函数# Tetris
 │   ├── menu.js                              // 菜单类
 │   ├── button.js                            // 按钮类
 │   ├── background.js                        // 背景类
